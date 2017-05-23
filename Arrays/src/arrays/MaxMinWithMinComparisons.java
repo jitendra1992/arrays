@@ -1,4 +1,4 @@
-package first10;
+package arrays;
 
 import utils.Result;
 

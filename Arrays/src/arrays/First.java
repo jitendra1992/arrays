@@ -1,4 +1,4 @@
-package first10;
+package arrays;
 
 public class First {
 	public static void main(String args[]){
